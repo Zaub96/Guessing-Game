@@ -6,3 +6,4 @@ Range can be set to anything; I have yet to test this using negative integers.
 I plan on making some more additions such as giving the number of attempts a rating (good, bad, great, etc)
 
 # UPDATED VERSION 2.0
+I updated the game to include more descriptive strings and allow for easier readability. Also adjusted a few lines to make the game feel more interesting.
